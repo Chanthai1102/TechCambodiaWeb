@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.card-profile-container{
+    position: absolute;
+    top: -20%;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+}
+.card-profile{
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
+.navbar{
+    transition: top .5s ease-in-out;
+}
+.top-footer{
+    /* background-image: url(/foot_bg.jpg); */
+    background-attachment: fixed;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
