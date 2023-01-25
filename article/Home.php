@@ -14,8 +14,6 @@
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <!-- link aos animetion -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <!-- Link JQuery  -->
-
     <title>Document</title>
 </head>
 <body>
@@ -844,7 +842,9 @@
         </div>
     </div>
 </body>
+    <!-- Link JQuery  -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <!-- link Connect AOS animetion  -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
   AOS.init();
