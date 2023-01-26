@@ -579,10 +579,6 @@ video {
   display: grid;
 }
 
-.hidden {
-  display: none;
-}
-
 .h-hero {
   height: 42rem;
 }
