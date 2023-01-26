@@ -65,13 +65,17 @@
                             <div class="mr-4">
                                 <i class='bx bx-search text-white text-2xl'></i>
                             </div>
-                            <div class="mr-6 cursor-pointer">
-                                <i class='bx bx-sun text-white text-2xl' ></i>
+                            <div class="mr-6 cursor-pointer moon ">
+                                <i class='bx bxs-moon text-white text-2xl ' id="moonIcon"></i>
                             </div>
+                            <div class="mr-6 cursor-pointer sun display-none">
+                                <i class='bx bx-sun text-white text-2xl' id="sunIcon" ></i>
+                            </div>
+                            
                         </div>
                     </nav>
                 </div>
-                <div class="min-h-screen">
+                <div class=" dark:bg-black min-h-screen">
                     <div class="pb-20">
                         <div>
                             <div>
@@ -129,7 +133,7 @@
                                 <div>
                                     <div class="mt-8 pb-4">
                                         <div class="flex justify-between text-base ">
-                                            <p class=" font-light text-lg">
+                                            <p class=" font-light text-lg dark:text-white">
                                                 អត្ថបទពេញនិយមប្រចាំខែ
                                             </p>
                                             <a href="">
@@ -138,9 +142,9 @@
                                                 </button>
                                             </a>
                                         </div>
-                                        <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-10 mt-6">
+                                        <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-6 mt-6">
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -169,7 +173,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -198,7 +202,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -227,7 +231,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -256,7 +260,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -288,7 +292,7 @@
                                     </div>
                                     <div class="mt-8 pb-4">
                                         <div class="flex justify-between text-base ">
-                                            <p class=" font-light text-lg">
+                                            <p class=" font-light text-lg dark:text-white">
                                                 អត្ថបទពេញនិយមប្រចាំខែ
                                             </p>
                                             <a href="">
@@ -299,7 +303,7 @@
                                         </div>
                                         <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-10 mt-6">
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -328,7 +332,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -357,7 +361,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -386,7 +390,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -415,7 +419,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -447,7 +451,7 @@
                                     </div>
                                     <div class="mt-8 pb-4">
                                         <div class="flex justify-between text-base ">
-                                            <p class=" font-light text-lg">
+                                            <p class=" font-light text-lg dark:text-white">
                                                 អត្ថបទពេញនិយមប្រចាំខែ
                                             </p>
                                             <a href="">
@@ -458,7 +462,7 @@
                                         </div>
                                         <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-10 mt-6">
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -487,7 +491,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -516,7 +520,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -545,7 +549,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -574,7 +578,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -606,7 +610,7 @@
                                     </div>
                                     <div class="mt-8 pb-4">
                                         <div class="flex justify-between text-base ">
-                                            <p class=" font-light text-lg">
+                                            <p class=" font-light text-lg dark:text-white">
                                                 អត្ថបទពេញនិយមប្រចាំខែ
                                             </p>
                                             <a href="">
@@ -617,7 +621,7 @@
                                         </div>
                                         <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-10 mt-6">
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -646,7 +650,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -675,7 +679,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -704,7 +708,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -733,7 +737,7 @@
                                                 </div>
                                             </a>
                                             <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
                                                     <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
                                                         <div>
@@ -768,7 +772,7 @@
                         </div>
                     </div>
                 </div>
-                <div class=" bg-blue-700 pb-4 text-white">
+                <div class=" bg-blue-700 pb-4 text-white dark:bg-gray-800">
                     <div class="flex flex-col justify-center items-center py-20 top-footer" style="background-image: url('assets/image/foot_bg.jpg');">
                         <img src="assets/image/logo2.png" alt="" class=" w-44 h-44">
                         <div class=" text-3xl font-bold">Technology Cambodia</div>
@@ -846,16 +850,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <!-- link Connect AOS animetion  -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
-  AOS.init();
-  $(document).ready(function(){
-    $(window).scroll(function() {
-        if ($(this).scrollTop() > 0) {
-            $('#navbar').fadeOut();
-        } else {
-            $('#navbar').fadeIn();
-        }
-    });
-});
-</script>
+    <!-- link Coonection File Jquery -->
+<script src="assets/Js/Jquery.js"></script>
 </html>
