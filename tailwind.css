@@ -648,11 +648,6 @@ video {
        column-gap: 1.5rem;
 }
 
-.gap-x-10 {
-  -moz-column-gap: 2.5rem;
-       column-gap: 2.5rem;
-}
-
 .rounded-full {
   border-radius: 9999px;
 }
@@ -843,11 +838,6 @@ video {
 .text-black {
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity));
-}
-
-.text-regal-blue {
-  --tw-text-opacity: 1;
-  color: rgb(16 96 196 / var(--tw-text-opacity));
 }
 
 .drop-shadow-xl {

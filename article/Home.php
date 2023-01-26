@@ -78,11 +78,105 @@
                 <div class=" dark:bg-black min-h-screen">
                     <div class="pb-20">
                         <div>
-                            <div>
+                            <div id="slideshow">
                                 <div class=" w-full object-cover h-hero bg-no-repeat bg-center bg-cover" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('assets/image/toyota.jfif');">
                                     <div class=" h-full flex flex-col justify-center text-center px-20 items-center">
                                         <div class="text-white text-5xl font-sans mt-4 leading-hero-tittle">
                                             គេគ្រប់​គ្នា​ផលិតឡានអគ្គិសនីថ្មីៗ តែToyota វិញគ្រោង​​​យក​​​ឡាន​កញ្ចាស់​​ៗ​​មក​កែ​ច្នៃ​​​​​​​​​​​​​​ជា​​ឡានអគ្គិសនី​ ​​​ ​​​​​​​​​​​​
+                                        </div>
+                                        <div class=" w-full items-center flex flex-wrap justify-center mt-2 text-base text-gray-200">
+                                            <div class="flex">
+                                                <div class=" font-light">
+                                                    JANUARY 24 2023
+                                                </div>
+                                                <div class=" text-lg mx-4">
+                                                    •
+                                                </div>
+                                                <div class=" font-light">
+                                                    អេឡិចត្រូនិច
+                                                </div>
+                                                <div class=" text-lg mx-4">
+                                                    •
+                                                </div>
+                                                <div class=" font-light">
+                                                    CHANTHAI THY
+                                                </div>
+                                            </div>
+                                            <div class="flex">
+                                                <div class="text-lg mx-4 ">
+                                                    •
+                                                </div>
+                                                <div class="font-light ">
+                                                    3456 View
+                                                </div>
+                                                <div class="text-lg mx-4">
+                                                    •
+                                                </div>
+                                                <div class=" text-lg mx-4">
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class=" mt-10">
+                                            <a href="">
+                                                <button class="text-white bg-blue-700 px-10 py-2  text-base rounded-3xl transition transform duration-300 hover:scale-90">
+                                                    បន្ដការអាន
+                                                </button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=" w-full object-cover h-hero bg-no-repeat bg-center bg-cover" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('assets/image/mak.jfif');">
+                                    <div class=" h-full flex flex-col justify-center text-center px-20 items-center">
+                                        <div class="text-white text-5xl font-sans mt-4 leading-hero-tittle">
+                                            ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត​​​​​​​​​​​​
+                                        </div>
+                                        <div class=" w-full items-center flex flex-wrap justify-center mt-2 text-base text-gray-200">
+                                            <div class="flex">
+                                                <div class=" font-light">
+                                                    JANUARY 24 2023
+                                                </div>
+                                                <div class=" text-lg mx-4">
+                                                    •
+                                                </div>
+                                                <div class=" font-light">
+                                                    អេឡិចត្រូនិច
+                                                </div>
+                                                <div class=" text-lg mx-4">
+                                                    •
+                                                </div>
+                                                <div class=" font-light">
+                                                    CHANTHAI THY
+                                                </div>
+                                            </div>
+                                            <div class="flex">
+                                                <div class="text-lg mx-4 ">
+                                                    •
+                                                </div>
+                                                <div class="font-light ">
+                                                    3456 View
+                                                </div>
+                                                <div class="text-lg mx-4">
+                                                    •
+                                                </div>
+                                                <div class=" text-lg mx-4">
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class=" mt-10">
+                                            <a href="">
+                                                <button class="text-white bg-blue-700 px-10 py-2  text-base rounded-3xl transition transform duration-300 hover:scale-90">
+                                                    បន្ដការអាន
+                                                </button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=" w-full object-cover h-hero bg-no-repeat bg-center bg-cover" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('assets/image/mak1.jfif');">
+                                    <div class=" h-full flex flex-col justify-center text-center px-20 items-center">
+                                        <div class="text-white text-5xl font-sans mt-4 leading-hero-tittle">
+                                            ២០២៣ហើយ តោះមកដឹង៥វិធីរកលុយពី Facebook ចំណូលពាន់$ មិនបាច់លក់អនឡាញ​ ​​​ ​​​​​​​​​​​​
                                         </div>
                                         <div class=" w-full items-center flex flex-wrap justify-center mt-2 text-base text-gray-200">
                                             <div class="flex">

@@ -1,4 +1,6 @@
- AOS.init();
+AOS.init({
+    duration: 1200,
+  })  
 //   function Hide Navbar When Scroll
   $(document).ready(function(){
     $(window).scroll(function() {
@@ -8,6 +10,15 @@
             $('#navbar').fadeIn();
         }
     });
+    $("#slideshow > div:gt(0)").hide();
+    setInterval(function() { 
+        $('#slideshow > div:first')
+        .fadeOut(0)
+        .next()
+        .fadeIn(0)
+        .end()
+        .appendTo('#slideshow');
+        }, 3000);
 });
 
 // Icon 
