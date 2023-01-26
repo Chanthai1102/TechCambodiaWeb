@@ -155,7 +155,7 @@
                                                             <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -184,7 +184,7 @@
                                                             <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -213,7 +213,7 @@
                                                             <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -242,7 +242,7 @@
                                                             <div class=" text-blue-600 mt-10 text-xs ">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -271,7 +271,7 @@
                                                             <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -302,7 +302,7 @@
                                                 </button>
                                             </a>
                                         </div>
-                                        <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-10 mt-6">
+                                        <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-6 mt-6">
                                             <a href="">
                                                 <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
@@ -311,68 +311,10 @@
                                                             <div class="p-1 bg-white card-profile-container">
                                                                 <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
                                                             </div>
-                                                            <div class=" text-blue-600 mt-10 text-xs ">
+                                                            <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
-                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
-                                                            </p>
-                                                            <div class=" font-light mt-2 text-xs">
-                                                                27k View
-                                                                <span style="font-size: 12px;">•</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="flex justify-between items-center">
-                                                            <div>
-                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
-                                                            </div>
-                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
-                                                        </div>
-                                                        
-                                                    </div>   
-                                                </div>
-                                            </a>
-                                            <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
-                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
-                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
-                                                        <div>
-                                                            <div class="p-1 bg-white card-profile-container">
-                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
-                                                            </div>
-                                                            <div class=" text-blue-600 mt-10 text-xs ">
-                                                                JANUARY 3 2023
-                                                            </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
-                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
-                                                            </p>
-                                                            <div class=" font-light mt-2 text-xs">
-                                                                27k View
-                                                                <span style="font-size: 12px;">•</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="flex justify-between items-center">
-                                                            <div>
-                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
-                                                            </div>
-                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
-                                                        </div>
-                                                        
-                                                    </div>   
-                                                </div>
-                                            </a>
-                                            <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
-                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
-                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
-                                                        <div>
-                                                            <div class="p-1 bg-white card-profile-container">
-                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
-                                                            </div>
-                                                            <div class=" text-blue-600 mt-10  text-xs">
-                                                                JANUARY 3 2023
-                                                            </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -401,7 +343,7 @@
                                                             <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -427,10 +369,10 @@
                                                             <div class="p-1 bg-white card-profile-container">
                                                                 <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
                                                             </div>
-                                                            <div class=" text-regal-blue mt-10 text-xs ">
+                                                            <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -440,7 +382,65 @@
                                                         </div>
                                                         <div class="flex justify-between items-center">
                                                             <div>
-                                                                <div class="text-sm">បន្ដអានអត្ថបទ</div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
+                                                            </div>
+                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
+                                                        </div>
+                                                        
+                                                    </div>   
+                                                </div>
+                                            </a>
+                                            <a href="">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
+                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
+                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
+                                                        <div>
+                                                            <div class="p-1 bg-white card-profile-container">
+                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
+                                                            </div>
+                                                            <div class=" text-blue-600 mt-10 text-xs ">
+                                                                JANUARY 3 2023
+                                                            </div>
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
+                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
+                                                            </p>
+                                                            <div class=" font-light mt-2 text-xs">
+                                                                27k View
+                                                                <span style="font-size: 12px;">•</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="flex justify-between items-center">
+                                                            <div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
+                                                            </div>
+                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
+                                                        </div>
+                                                        
+                                                    </div>   
+                                                </div>
+                                            </a>
+                                            <a href="">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
+                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
+                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
+                                                        <div>
+                                                            <div class="p-1 bg-white card-profile-container">
+                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
+                                                            </div>
+                                                            <div class=" text-blue-600 mt-10 text-xs">
+                                                                JANUARY 3 2023
+                                                            </div>
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
+                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
+                                                            </p>
+                                                            <div class=" font-light mt-2 text-xs">
+                                                                27k View
+                                                                <span style="font-size: 12px;">•</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="flex justify-between items-center">
+                                                            <div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
                                                             </div>
                                                             <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
                                                         </div>
@@ -461,7 +461,7 @@
                                                 </button>
                                             </a>
                                         </div>
-                                        <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-10 mt-6">
+                                        <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-6 mt-6">
                                             <a href="">
                                                 <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
@@ -470,68 +470,10 @@
                                                             <div class="p-1 bg-white card-profile-container">
                                                                 <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
                                                             </div>
-                                                            <div class=" text-blue-600 mt-10 text-xs ">
+                                                            <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
-                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
-                                                            </p>
-                                                            <div class=" font-light mt-2 text-xs">
-                                                                27k View
-                                                                <span style="font-size: 12px;">•</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="flex justify-between items-center">
-                                                            <div>
-                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
-                                                            </div>
-                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
-                                                        </div>
-                                                        
-                                                    </div>   
-                                                </div>
-                                            </a>
-                                            <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
-                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
-                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
-                                                        <div>
-                                                            <div class="p-1 bg-white card-profile-container">
-                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
-                                                            </div>
-                                                            <div class=" text-blue-600 mt-10 text-xs ">
-                                                                JANUARY 3 2023
-                                                            </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
-                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
-                                                            </p>
-                                                            <div class=" font-light mt-2 text-xs">
-                                                                27k View
-                                                                <span style="font-size: 12px;">•</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="flex justify-between items-center">
-                                                            <div>
-                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
-                                                            </div>
-                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
-                                                        </div>
-                                                        
-                                                    </div>   
-                                                </div>
-                                            </a>
-                                            <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
-                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
-                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
-                                                        <div>
-                                                            <div class="p-1 bg-white card-profile-container">
-                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
-                                                            </div>
-                                                            <div class=" text-blue-600 mt-10  text-xs">
-                                                                JANUARY 3 2023
-                                                            </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -560,7 +502,7 @@
                                                             <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -586,10 +528,10 @@
                                                             <div class="p-1 bg-white card-profile-container">
                                                                 <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
                                                             </div>
-                                                            <div class=" text-regal-blue mt-10 text-xs ">
+                                                            <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -599,7 +541,65 @@
                                                         </div>
                                                         <div class="flex justify-between items-center">
                                                             <div>
-                                                                <div class="text-sm">បន្ដអានអត្ថបទ</div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
+                                                            </div>
+                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
+                                                        </div>
+                                                        
+                                                    </div>   
+                                                </div>
+                                            </a>
+                                            <a href="">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
+                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
+                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
+                                                        <div>
+                                                            <div class="p-1 bg-white card-profile-container">
+                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
+                                                            </div>
+                                                            <div class=" text-blue-600 mt-10 text-xs ">
+                                                                JANUARY 3 2023
+                                                            </div>
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
+                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
+                                                            </p>
+                                                            <div class=" font-light mt-2 text-xs">
+                                                                27k View
+                                                                <span style="font-size: 12px;">•</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="flex justify-between items-center">
+                                                            <div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
+                                                            </div>
+                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
+                                                        </div>
+                                                        
+                                                    </div>   
+                                                </div>
+                                            </a>
+                                            <a href="">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
+                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
+                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
+                                                        <div>
+                                                            <div class="p-1 bg-white card-profile-container">
+                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
+                                                            </div>
+                                                            <div class=" text-blue-600 mt-10 text-xs">
+                                                                JANUARY 3 2023
+                                                            </div>
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
+                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
+                                                            </p>
+                                                            <div class=" font-light mt-2 text-xs">
+                                                                27k View
+                                                                <span style="font-size: 12px;">•</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="flex justify-between items-center">
+                                                            <div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
                                                             </div>
                                                             <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
                                                         </div>
@@ -620,7 +620,7 @@
                                                 </button>
                                             </a>
                                         </div>
-                                        <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-10 mt-6">
+                                        <div  data-aos="zoom-in" class=" grid grid-cols-5 gap-x-6 mt-6">
                                             <a href="">
                                                 <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
                                                     <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
@@ -629,68 +629,10 @@
                                                             <div class="p-1 bg-white card-profile-container">
                                                                 <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
                                                             </div>
-                                                            <div class=" text-blue-600 mt-10 text-xs ">
+                                                            <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
-                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
-                                                            </p>
-                                                            <div class=" font-light mt-2 text-xs">
-                                                                27k View
-                                                                <span style="font-size: 12px;">•</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="flex justify-between items-center">
-                                                            <div>
-                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
-                                                            </div>
-                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
-                                                        </div>
-                                                        
-                                                    </div>   
-                                                </div>
-                                            </a>
-                                            <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
-                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
-                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
-                                                        <div>
-                                                            <div class="p-1 bg-white card-profile-container">
-                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
-                                                            </div>
-                                                            <div class=" text-blue-600 mt-10 text-xs ">
-                                                                JANUARY 3 2023
-                                                            </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
-                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
-                                                            </p>
-                                                            <div class=" font-light mt-2 text-xs">
-                                                                27k View
-                                                                <span style="font-size: 12px;">•</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="flex justify-between items-center">
-                                                            <div>
-                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
-                                                            </div>
-                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
-                                                        </div>
-                                                        
-                                                    </div>   
-                                                </div>
-                                            </a>
-                                            <a href="">
-                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
-                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
-                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
-                                                        <div>
-                                                            <div class="p-1 bg-white card-profile-container">
-                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
-                                                            </div>
-                                                            <div class=" text-blue-600 mt-10  text-xs">
-                                                                JANUARY 3 2023
-                                                            </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -719,7 +661,7 @@
                                                             <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -745,10 +687,10 @@
                                                             <div class="p-1 bg-white card-profile-container">
                                                                 <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
                                                             </div>
-                                                            <div class=" text-regal-blue mt-10 text-xs ">
+                                                            <div class=" text-blue-600 mt-10 text-xs">
                                                                 JANUARY 3 2023
                                                             </div>
-                                                            <p class="text-lg mt-1 font-medium font-sans">
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
                                                                  ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
                                                             </p>
                                                             <div class=" font-light mt-2 text-xs">
@@ -758,7 +700,65 @@
                                                         </div>
                                                         <div class="flex justify-between items-center">
                                                             <div>
-                                                                <div class="text-sm">បន្ដអានអត្ថបទ</div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
+                                                            </div>
+                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
+                                                        </div>
+                                                        
+                                                    </div>   
+                                                </div>
+                                            </a>
+                                            <a href="">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
+                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
+                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
+                                                        <div>
+                                                            <div class="p-1 bg-white card-profile-container">
+                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
+                                                            </div>
+                                                            <div class=" text-blue-600 mt-10 text-xs ">
+                                                                JANUARY 3 2023
+                                                            </div>
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
+                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
+                                                            </p>
+                                                            <div class=" font-light mt-2 text-xs">
+                                                                27k View
+                                                                <span style="font-size: 12px;">•</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="flex justify-between items-center">
+                                                            <div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
+                                                            </div>
+                                                            <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
+                                                        </div>
+                                                        
+                                                    </div>   
+                                                </div>
+                                            </a>
+                                            <a href="">
+                                                <div class=" bg-white filter rounded-xl mx-2 mb-6 transform transition duration-300 hover:scale-95 hover:shadow-lg drop-shadow-xl dark:bg-gray-800 dark:text-white">
+                                                    <img src="assets/image/mak.jfif" alt="" class="h-44 w-full object-cover bg-no-repeat bg-center rounded-t-xl">
+                                                    <div class=" h-60 px-4 pt-4 pb-6 flex flex-col justify-between rounded-b-xl relative">
+                                                        <div>
+                                                            <div class="p-1 bg-white card-profile-container">
+                                                                <img src="assets/image/profile.jpg" alt="" class="card-profile bg-cover">
+                                                            </div>
+                                                            <div class=" text-blue-600 mt-10 text-xs">
+                                                                JANUARY 3 2023
+                                                            </div>
+                                                            <p class="text-lg mt-1 font-medium font-sans line-clamp">
+                                                                 ចង់ដឹងទេ? មួយក្បាច់នេះអាចចូលមើលចំនួនអ្នក “មើល Profile ហ្វេសប៊ុក” យើងបានទៀត
+                                                            </p>
+                                                            <div class=" font-light mt-2 text-xs">
+                                                                27k View
+                                                                <span style="font-size: 12px;">•</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="flex justify-between items-center">
+                                                            <div>
+                                                                <div class=" text-sm">បន្ដអានអត្ថបទ</div>
                                                             </div>
                                                             <i class='bx bx-right-arrow-circle text-black text-2xl'></i>
                                                         </div>
