@@ -3,11 +3,15 @@ AOS.init({
   })  
 //   function Hide Navbar When Scroll
   $(document).ready(function(){
-    $(window).scroll(function() {
-        if ($(this).scrollTop() > 0) {
-            $('#navbar').fadeOut();
-        } else {
-            $('#navbar').fadeIn();
+    $(window).on("scroll", function(){
+
+        if($(window).scrollTop() == 0){
+
+        $("#navbar").css("background-color", "");
+        $(".text-navbar").css("color", "white");
+        }
+        else if ($(window).scrollTop() > 0){
+            $(".text-navbar").css("color", "black");
         }
     });
     $("#slideshow > div:gt(0)").hide();
@@ -18,7 +22,7 @@ AOS.init({
         .fadeIn(0)
         .end()
         .appendTo('#slideshow');
-        }, 3000);
+        }, 3000);    
 });
 
 // Icon 
@@ -67,3 +71,15 @@ moonIcon.addEventListener("click", () =>{
 });
 
 themeCheck();
+
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-80px"; /* adjust this value to the height of your header */
+    document.getElementById("navbar").style.background = "white"; 
+  }
+  prevScrollpos = currentScrollPos;
+}

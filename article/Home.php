@@ -22,7 +22,7 @@
             <div class=" relative">
                 <!--  -->
                 <div>
-                    <nav id="navbar" class="w-full flex items-center justify-between px-8 py-2 fixed z-50 navbar" style="top: 0;">
+                    <nav id="navbar" class="w-full flex items-center justify-between px-8 py-2 fixed z-50 navbar menu" style="top: 0;">
                         <div class="flex items-center rounded-full p-0.5">
                             <a href="">
                                 <div>
@@ -32,31 +32,31 @@
                         </div>
                         <div>
                             <ul class="flex list-none">
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar">
                                     ទំព័រដើម
                                 </a>
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar" >
                                     អេឡិចត្រូនិច
                                 </a>
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar">
                                     ច្នៃប្រឌិត
                                 </a>
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar">
                                     យានយន្ដ
                                 </a>
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar">
                                     អាជីវកម្ម
                                 </a>
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar">
                                     វិទ្យាសាស្រ្ដ
                                 </a>
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar">
                                     គន្លឹះល្អៗ
                                 </a>
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar">
                                     វីដេអូ
                                 </a>
-                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700">
+                                <a href="" class=" relative text-white font-semibold text-base mx-4 font-sans hover:text-blue-700 text-navbar">
                                     PR
                                 </a>
                             </ul>
@@ -945,5 +945,5 @@
     <!-- link Connect AOS animetion  -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <!-- link Coonection File Jquery -->
-<script src="assets/Js/Jquery.js"></script>
+<script src="assets/Js/Jquery.js?v=<?php echo time(); ?>"></script>
 </html>
