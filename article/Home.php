@@ -63,13 +63,13 @@
                         </div>
                         <div class="flex items-center">
                             <div class="mr-4">
-                                <i class='bx bx-search text-white text-2xl'></i>
+                                <i class='bx bx-search text-white text-2xl text-navbar'></i>
                             </div>
                             <div class="mr-6 cursor-pointer moon ">
-                                <i class='bx bxs-moon text-white text-2xl ' id="moonIcon"></i>
+                                <i class='bx bxs-moon text-white text-2xl text-navbar' id="moonIcon"></i>
                             </div>
                             <div class="mr-6 cursor-pointer sun display-none">
-                                <i class='bx bx-sun text-white text-2xl' id="sunIcon" ></i>
+                                <i class='bx bx-sun text-white text-2xl text-navbar' id="sunIcon" ></i>
                             </div>
                             
                         </div>
